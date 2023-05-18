@@ -1,0 +1,16 @@
+{
+  "resources/images/gambar1.png": {
+    "file": "assets/gambar1-2d9d7bf8.png",
+    "src": "resources/images/gambar1.png"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-d4b42df8.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-3ea8b221.css",
+    "isEntry": true,
+    "src": "resources/sass/app.scss"
+  }
+}
